@@ -1,0 +1,32 @@
+Furniture
+Chairs
+Tables
+Occasional Furniture
+Service Bars
+ 
+Tableware
+Cutlery
+Crockery
+Glassware
+Linen
+ 
+Marquees
+Flooring
+Marquees
+ 
+Decorations
+Lighting
+Festoon
+Fairy
+Flower Decorations
+Other Decorations
+
+ 
+Catering
+Accessories
+Equipment
+Food
+
+Photography
+
+DJ
